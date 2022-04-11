@@ -1,4 +1,4 @@
-Python practice in sem 4
+Python practice
 
 *upload practice questions related to python*
 
